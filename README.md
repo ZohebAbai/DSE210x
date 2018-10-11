@@ -21,7 +21,7 @@ The course will teach you how to visualize, understand, and reason about probabi
 * PCA and regression
 * Entropy and compression
 
-## My Opinion/Comments
+## Opinion/Comments
 #### I audited for this course and pledged to complete it. I finished every Engagement, Quiz, Problem Set and Programming Assignment. This is a rigorous course which might be heavy for non-mathematical background learners. Once completed you will surely have a strong foundation in probability and statistics. 
 #### I have provided my Homeworks here (as an evidence of finishing and maintaining a repository for the course), which I completed during a month's time.
 
